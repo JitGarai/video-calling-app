@@ -44,7 +44,7 @@ video-calling-app/
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/video-calling-app.git
+git clone https://github.com/JitGarai/video-calling-app.git
 cd video-calling-app
 
 ### 2️⃣ Backend Setup
